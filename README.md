@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:31/05/2026
+## Register Number:212224040328
+## Name:Srisha M
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,50 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+To develop a Smart Railway Navigation System that helps passengers easily locate platforms, facilities, and services inside railway stations. The system will provide real-time directions, 3D maps, voice guidance, and accessibility support through mobile applications and digital kiosks, improving passenger experience and reducing confusion.
+
 
 
 ## Proposed Solution / Architecture Diagram
+<img width="671" height="430" alt="569922789-a2a47477-23f3-404b-a1e4-f79ff9f82072" src="https://github.com/user-attachments/assets/4973ed89-c638-48d9-974c-50ff79f1fd76" />
 
 
 ## Use Cases
-
+1.Mobile Application (Android/iOS)
+2.3D Interactive Maps
+3.Real-Time Navigation System
+4.QR Code Scanner for location tracking
+5.Backend Server (for processing requests)
+6.Database (station layout & facility data)
+7.Navigation Engine (shortest path algorithm)
+8.Voice Assistance System
+9.Digital Kiosks (touchscreen systems)
+10.Accessibility Module (for disabled users)
+11.API Integration (Railway services & maps)
+12.Real-Time Update System
 
 ## Technology Stack
 
+1.Frontend – React / React Native / Flutter
+2.Backend – Node.js / Django
+3.Database – MongoDB / MySQL
+4.Programming Languages – JavaScript / Python
+5.APIs – Google Maps API / Indoor Navigation API
+6.AI/ML – Route optimization algorithms
+7.QR Code Technology – For location tracking
+8.Speech Recognition – Voice navigation system
+9.Cloud Services – AWS / Firebase
+10.Version Control – Git / GitHub
 
 ## Dependencies
 
+1.Internet connectivity
+2.GPS / Indoor positioning system
+3.Railway data (station layout & facilities)
+4.Mobile devices (Android/iOS)
+5.Digital kiosk hardware
+6.External APIs (Maps, Voice services)
+7.3Cloud infrastructure (AWS/Firebase)
+8.User authentication system
+9.Regular data updates from railway authorities
+10.Software development tools (IDE, Git)
